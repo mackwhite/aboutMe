@@ -1,5 +1,9 @@
+# added by default when I initalized my RProj as a Git Repository
 .Rproj.user
 .Rhistory
 .Rdata
 .httr-oauth
 .DS_Store
+
+# add file so that it doesn't get pushed to the remote repo (on GitHub);
+contains_sensitive_info.R
